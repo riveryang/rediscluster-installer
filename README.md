@@ -2,7 +2,7 @@
 
 ## 安装环境
 
-* Server: CentOS 6.5
+* OS: CentOS 6.5
 * Redis: 3.2.1
 * Ruby 2.3.1
 
